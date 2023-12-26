@@ -3,7 +3,7 @@ export const users = [
       id: 1,
       name: {
         firstname: "JOHNBHERT CLINT",
-        middlename: "P.",
+        middlename: "P",
         lastname: "MAGALONA",
       },
       address: "Lourdes, Bohol",
@@ -12,7 +12,7 @@ export const users = [
       id: 2,
       name: {
         firstname: "MIRADEL",
-        middlename: "S.",
+        middlename: "S",
         lastname: "BAMUYA",
       },
       address: "Tiptip, Tagbilaran City",
@@ -21,7 +21,7 @@ export const users = [
       id: 3,
       name: {
         firstname: "SHANE",
-        middlename: "P.",
+        middlename: "P",
         lastname: "MAGALONA",
       },
       address: "Lourdes, Bohol",
@@ -30,7 +30,7 @@ export const users = [
       id: 4,
       name: {
         firstname: "VALERIANA",
-        middlename: "B.",
+        middlename: "B",
         lastname: "POCOT",
       },
       address: "Lourdes, Magalona",
@@ -39,7 +39,7 @@ export const users = [
       id: 5,
       name: {
         firstname: "JHEMART",
-        middlename: "T.",
+        middlename: "T",
         lastname: "POCOT",
       },
       address: "Lourdes, Bohol",
@@ -57,7 +57,7 @@ export const users = [
       id: 7,
       name: {
         firstname: "DRANREB DJ",
-        middlename: "J.",
+        middlename: "J",
         lastname: "PARING",
       },
       address: "Lourdes, Bohol",
